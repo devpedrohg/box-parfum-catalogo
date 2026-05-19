@@ -416,7 +416,7 @@ function renderProducts(){
   grid.innerHTML = list.map((product, index)=>`
     <article class="card">
       <div class="product-img-box">
-        <img src="${product.image}" alt="${product.name}" onerror="this.src='placeholder-produto.png'">
+        <img src="${product.image}" alt="${product.name}">
       </div>
       <div class="product-category">${product.category}</div>
       <h3>${product.name}</h3>
