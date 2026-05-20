@@ -1275,11 +1275,28 @@ a{
 }
 
 .card{
-  width:100%;
-  min-width:0;
-  padding:10px;
+  display:flex;
+  flex-direction:column;
+  height:100%;
+  justify-content:space-between;
 }
 
+.card h3{
+  min-height:42px;
+}
+
+.card p{
+  min-height:34px;
+}
+
+
+.stock{
+  min-height:22px;
+}
+
+.actions{
+  margin-top:auto;
+} 
 .product-img-box{
   height:150px;
 }
