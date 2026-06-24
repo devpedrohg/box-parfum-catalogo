@@ -37,7 +37,7 @@ const productsData = [
     {name:"Fakhar Gold Extrait Masculino", category:"Perfume", price:200, stock:1, image:"fakhargold.png", desc:"Elegante, intenso e inesquecível."},
     {name:"Fakhar Platinum Masculino", category:"Perfume", price:240, stock:1, image:"fakharplatinum.png", desc:"Luxo masculino com presença refinada."},
     {name:"Asad Bourbon Masculino", category:"Perfume", price:280, stock:1, image:"pasaadbourbom.png", desc:"Quente, marcante e sofisticado."},
-    {name:"Qaed Al Fursan Masculino", category:"Perfume", price:170, stock:1, image:"oqaedalfursan.png", desc:"Clássico árabe com personalidade."},
+    {name:"Qaed Al Fursan Masculino", category:"Perfume", price:170, stock:1, image:"oqaedalfursan.PNG", desc:"Clássico árabe com personalidade."},
     {name:"Ferrari Black Scuderia Masculino", category:"Perfume", price:200, stock:2, image:"pferrariblack.png", desc:"Esportivo, elegante e marcante."},
     {name:"Sharaf Blend Zimaya Masculino", category:"Perfume", price:260, stock:1, image:"psharaf.png", desc:"Blend intenso com assinatura sofisticada."},
     {name:"Khamrah Masculino", category:"Perfume", price:200, stock:1, image:"pkramrah.png", desc:"Doce, quente e envolvente."},
